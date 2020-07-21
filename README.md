@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://observer.com/wp-content/uploads/sites/2/2020/05/yoda-art-observer.jpg?resize=970,567">
+<img align="right" width="400" height="300" src="https://observer.com/wp-content/uploads/sites/2/2020/05/yoda-art-observer.jpg?resize=970,567">
  
 # Welcome!
  
