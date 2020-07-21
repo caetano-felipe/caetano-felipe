@@ -8,7 +8,7 @@ Intern Ruby on Rails Developer in Quasar Flash. :robot:
 
 Graduating in System Analysis and Development on College Impacta. :nerd_face:
 
-I’m currently learning Ruby, Ruby on Rails, Javascript and Python. :rocket:
+I’m currently interested in, and learning about technologies like Ruby, Ruby on Rails, Javascript and Python. :rocket:
  
  
 ## Would you like to find me?
