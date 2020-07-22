@@ -1,4 +1,4 @@
-# Hi there! :wave:
+** Hi there! ** :wave:
  
 ## I'm Felipe Borges Caetano, a Intern Ruby on Rails Developer! :robot:
 
