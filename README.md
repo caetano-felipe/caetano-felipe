@@ -8,8 +8,16 @@
 
 <img align="center" width="250" height="250" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif">
 
-Intern Ruby on Rails Developer in Quasar Flash. 
+## About :grin:
 
-Graduating in System Analysis and Development on College Impacta. :nerd_face:
+I'm currently Intern Ruby on Rails Developer in Quasar Flash, a graduate student in System Analysis and Development on College Impacta, and a technology lover, fascinated with back-end, and front-end development. :nerd_face:
 
-I’m currently interested in, and learning about technologies like Ruby, Ruby on Rails, Javascript and Python. :rocket:
+## Technologies and Skills :rocket:
+
+* HTML5
+* CSS3
+* JavasScript
+* Ruby
+* Ruby on Rails
+* Python
+* Git
