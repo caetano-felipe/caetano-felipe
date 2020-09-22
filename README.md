@@ -1,6 +1,6 @@
 ### Hi there!  :wave:
  
-### I'm Felipe Borges Caetano, a Intern Ruby on Rails Developer! :robot:
+### I'm Felipe Borges Caetano! :robot:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caetano-felipe)](https://github.com/caetano-felipe)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-borges-caetano-78627416a)](https://www.linkedin.com/in/felipe-borges-caetano-78627416a)
@@ -10,7 +10,7 @@
 
 ## About :grin:
 
-I'm currently Intern Ruby on Rails Developer in Quasar Flash, a graduate student in System Analysis and Development on College Impacta, and a technology lover, fascinated with back-end, and front-end development. :nerd_face:
+I'm currently graduate student in System Analysis and Development on College Impacta, and a technology lover, fascinated in back-end, and front-end development. :nerd_face:
 
 ## Technologies and Skills :rocket:
 
@@ -21,3 +21,5 @@ I'm currently Intern Ruby on Rails Developer in Quasar Flash, a graduate student
 * Ruby on Rails
 * Python
 * Git
+* MySQL
+* Scrum
