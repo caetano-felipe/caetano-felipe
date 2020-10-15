@@ -10,13 +10,15 @@
 
 ## About :grin:
 
-I'm currently graduate student in System Analysis and Development on College Impacta, and a technology lover, fascinated in back-end, and front-end development. :nerd_face:
+I'm currently a graduate student in Analysis and Systems Development, at Impacta College, and at Bootcamp Java Jr. of Generation Brasil. 
+I am a technology lover, both in Backend technologies, as well as in Frontend. :nerd_face:
 
 ## Technologies and Skills :rocket:
 
 * HTML5
 * CSS3
 * JavasScript
+* Java
 * Ruby
 * Ruby on Rails
 * Python
