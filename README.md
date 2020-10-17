@@ -13,7 +13,7 @@
 I'm currently a graduate student in Analysis and Systems Development, at Impacta College, and at Bootcamp Java Jr. of Generation Brasil. 
 I am a technology lover, both in Backend technologies, as well as in Frontend. :nerd_face:
 
-```console
+```bash
 {
 	"personal": {
         "name": "Felipe Borges Caetano",
