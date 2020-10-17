@@ -15,7 +15,7 @@ I am a technology lover, both in Backend technologies, as well as in Frontend. :
 
 ```bash
 {
-	"personal": {
+    "personal": {
         "name": "Felipe Borges Caetano",
         "age": 30,
         "location": {
