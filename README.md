@@ -13,15 +13,46 @@
 I'm currently a graduate student in Analysis and Systems Development, at Impacta College, and at Bootcamp Java Jr. of Generation Brasil. 
 I am a technology lover, both in Backend technologies, as well as in Frontend. :nerd_face:
 
-## Technologies and Skills :rocket:
-
-* HTML5
-* CSS3
-* JavasScript
-* Java
-* Ruby
-* Ruby on Rails
-* Python
-* Git
-* MySQL
-* Scrum
+```console
+{
+	"personal": {
+        "name": "Felipe Borges Caetano",
+        "age": 30,
+        "location": {
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "São Paulo
+        }
+    },
+  
+    "study": {
+        "college": "Faculdade Impacta de Tecnologia",
+        "course": "Analysis and Systems Development",
+        "period": "3°/4°",
+        "location": {
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "São Paulo
+        },
+        "bootcamp": "Generation Brazil",
+        "course": "Java Jr. Developer",
+        "location": {
+            "country": "Brazil",
+            "state": "São Paulo",
+            "city": "São Paulo
+        },
+        "technologies_and_skills": [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Java",
+            "Ruby",
+            "Ruby On Rails",
+            "Python",
+            "Git / Github / Gitlab",
+            "MySQL",
+            "Scrum"
+        ]
+    }    
+}
+```
