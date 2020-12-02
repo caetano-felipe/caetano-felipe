@@ -1,6 +1,6 @@
-### <h1>Hi there!</h1>  :wave:
+### <h1>Hi there!</h1>
  
-## I'm Felipe Borges Caetano! :robot:
+## I'm Felipe Borges Caetano! :wave:
 
 <img align="right" width="250" height="250" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif" />
 
@@ -12,6 +12,8 @@ I'm Full Stack Developer Focused in Java | Angular :nerd_face:
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
+
+</br></br>
 
 ## About :grin:
 
