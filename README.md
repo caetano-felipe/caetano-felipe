@@ -12,6 +12,8 @@ Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
 
+</br>
+
 ## Contact :grin:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-plastic&logo=Github&logoColor=white&link=https://github.com/caetano-felipe)](https://github.com/caetano-felipe)
