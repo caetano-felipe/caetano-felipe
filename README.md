@@ -2,7 +2,7 @@
  
 ## I'm Felipe Borges Caetano!
 
-<img align="right" width="350" src="https://docs.google.com/uc?id=1JV-WFDhg9-Q51Kh7nCeeoOzP0JCgRHTX" /> 
+<img align="right" width="350" src="https://github.com/caetano-felipe/caetano-felipe/blob/main/images/dev.png" /> 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=caetano-felipe.caetano-felipe" alt="Visitas"></p>
 
@@ -38,8 +38,8 @@ FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
 <center>
 <table>
   <tr>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=caetano-felipe&show_icons=true&theme=dracula></td>
-      <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=caetano-felipe&show_icons=true&theme=dracula&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=caetano-felipe&show_icons=true&theme=dracula></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=caetano-felipe&show_icons=true&theme=dracula&layout=compact></td>
   </tr>  
 </table>
 </center>
