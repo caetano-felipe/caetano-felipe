@@ -1,8 +1,6 @@
-### <h1>Hi there! :wave:</h1>
+### <h1>Hi there! :wave:</h1><img align="right" width="350" src="https://github.com/caetano-felipe/caetano-felipe/blob/master/images/dev.png" />
  
-## I'm Felipe Borges Caetano!
-
-<img align="right" width="350" src="https://github.com/caetano-felipe/caetano-felipe/blob/main/images/dev.png" /> 
+## I'm Felipe Borges Caetano! 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=caetano-felipe.caetano-felipe" alt="Visitas"></p>
 
@@ -11,8 +9,6 @@ I'm Full Stack Developer Focused in Java | Angular :nerd_face:
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
-
-</br>
 
 ## Contact :grin:
 
