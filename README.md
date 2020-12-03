@@ -1,6 +1,6 @@
 ### <h1>Hi there! :wave:</h1>
  
-## I'm Felipe Borges Caetano! :wave:
+## I'm Felipe Borges Caetano!
 
 <img align="right" width="250" height="250" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif" />
 
