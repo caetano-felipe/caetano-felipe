@@ -1,4 +1,4 @@
-### <h1>Hi there!</h1>
+### <h1>Hi there! :wave:</h1>
  
 ## I'm Felipe Borges Caetano! :wave:
 
@@ -15,7 +15,7 @@ FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
 
 </br></br>
 
-## About :grin:
+## Contact :grin:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-plastic&logo=Github&logoColor=white&link=https://github.com/caetano-felipe)](https://github.com/caetano-felipe)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-borges-caetano-78627416a)](https://www.linkedin.com/in/felipe-borges-caetano-78627416a)
