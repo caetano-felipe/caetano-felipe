@@ -2,18 +2,15 @@
  
 ## I'm Felipe Borges Caetano!
 
-<img align="right" width="250" height="250" src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7f235838efe5a09.gif" />
+<img align="right" width="350" src="https://docs.google.com/uc?id=1JV-WFDhg9-Q51Kh7nCeeoOzP0JCgRHTX" /> 
 
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=caetano-felipe.caetano-felipe" alt="Visitas"></p>
-
 
 I'm Full Stack Developer Focused in Java | Angular :nerd_face:
 
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
-
-</br></br>
 
 ## Contact :grin:
 
