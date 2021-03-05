@@ -30,6 +30,10 @@ FIT - Faculdade Impacta de Tecnologia - Analysis And Systems Development 💻
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=plastic&logo=docker&logoColor=white)
 
+## Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Felipe Caetano Spotify Playing" width="350" />](https://open.spotify.com/user/12163436194)
+
 ## Github Stats :octocat:
 <center>
 <table>
