@@ -1,8 +1,10 @@
 ### <h1>Hi there! :wave:</h1><img align="right" width="350" src="https://github.com/caetano-felipe/caetano-felipe/blob/master/images/dev.png" />
  
-## I'm Felipe Borges Caetano! 
+## I'm Felipe Caetano! 
 
-I'm Platform Enginner :nerd_face:
+</br></br>
+
+I am currently a platform engineer focused on container solutions 🐋 🚢
 
 Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
